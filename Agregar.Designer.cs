@@ -28,97 +28,137 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvData = new System.Windows.Forms.DataGridView();
-            this.txtWord = new System.Windows.Forms.TextBox();
-            this.txtDefinition = new System.Windows.Forms.TextBox();
-            this.btnAdd = new System.Windows.Forms.Button();
-            this.ingles = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.espaniol = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cbCategory = new System.Windows.Forms.ComboBox();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvData)).BeginInit();
-            this.SuspendLayout();
+            dgvData = new DataGridView();
+            txtIngles = new TextBox();
+            txtEspaniol = new TextBox();
+            btnAdd = new Button();
+            cbCategory = new ComboBox();
+            btnVolver = new Button();
+            lbPrueba = new Label();
+            label1 = new Label();
+            label2 = new Label();
+            ((System.ComponentModel.ISupportInitialize)dgvData).BeginInit();
+            SuspendLayout();
             // 
             // dgvData
             // 
-            this.dgvData.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvData.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.ingles,
-            this.espaniol});
-            this.dgvData.Location = new System.Drawing.Point(101, 170);
-            this.dgvData.Name = "dgvData";
-            this.dgvData.RowTemplate.Height = 25;
-            this.dgvData.Size = new System.Drawing.Size(558, 175);
-            this.dgvData.TabIndex = 0;
+            dgvData.AllowUserToAddRows = false;
+            dgvData.AllowUserToDeleteRows = false;
+            dgvData.AllowUserToResizeColumns = false;
+            dgvData.AllowUserToResizeRows = false;
+            dgvData.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvData.Location = new Point(101, 170);
+            dgvData.Name = "dgvData";
+            dgvData.ReadOnly = true;
+            dgvData.RowTemplate.Height = 25;
+            dgvData.Size = new Size(558, 175);
+            dgvData.TabIndex = 0;
             // 
-            // txtWord
+            // txtIngles
             // 
-            this.txtWord.Location = new System.Drawing.Point(101, 127);
-            this.txtWord.Name = "txtWord";
-            this.txtWord.Size = new System.Drawing.Size(108, 23);
-            this.txtWord.TabIndex = 2;
+            txtIngles.Location = new Point(101, 127);
+            txtIngles.Name = "txtIngles";
+            txtIngles.Size = new Size(108, 23);
+            txtIngles.TabIndex = 2;
             // 
-            // txtDefinition
+            // txtEspaniol
             // 
-            this.txtDefinition.Location = new System.Drawing.Point(227, 127);
-            this.txtDefinition.Name = "txtDefinition";
-            this.txtDefinition.Size = new System.Drawing.Size(100, 23);
-            this.txtDefinition.TabIndex = 3;
+            txtEspaniol.Location = new Point(227, 127);
+            txtEspaniol.Name = "txtEspaniol";
+            txtEspaniol.Size = new Size(100, 23);
+            txtEspaniol.TabIndex = 3;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(343, 127);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(75, 23);
-            this.btnAdd.TabIndex = 4;
-            this.btnAdd.Text = "Agregar";
-            this.btnAdd.UseVisualStyleBackColor = true;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
-            // 
-            // ingles
-            // 
-            this.ingles.HeaderText = "Ingles";
-            this.ingles.Name = "ingles";
-            // 
-            // espaniol
-            // 
-            this.espaniol.HeaderText = "Español";
-            this.espaniol.Name = "espaniol";
+            btnAdd.Location = new Point(457, 126);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(75, 23);
+            btnAdd.TabIndex = 4;
+            btnAdd.Text = "Confirmar";
+            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // cbCategory
             // 
-            this.cbCategory.FormattingEnabled = true;
-            this.cbCategory.Location = new System.Drawing.Point(445, 127);
-            this.cbCategory.Name = "cbCategory";
-            this.cbCategory.Size = new System.Drawing.Size(121, 23);
-            this.cbCategory.TabIndex = 5;
+            cbCategory.DropDownStyle = ComboBoxStyle.DropDownList;
+            cbCategory.FormattingEnabled = true;
+            cbCategory.Items.AddRange(new object[] { "Agregar", "Eliminar" });
+            cbCategory.Location = new Point(538, 127);
+            cbCategory.Name = "cbCategory";
+            cbCategory.Size = new Size(121, 23);
+            cbCategory.TabIndex = 5;
+            cbCategory.SelectedIndexChanged += cbCategory_SelectedIndexChanged;
+            // 
+            // btnVolver
+            // 
+            btnVolver.Location = new Point(584, 351);
+            btnVolver.Name = "btnVolver";
+            btnVolver.Size = new Size(75, 23);
+            btnVolver.TabIndex = 6;
+            btnVolver.Text = "Volver";
+            btnVolver.UseVisualStyleBackColor = true;
+            btnVolver.Click += btnVolver_Click;
+            // 
+            // lbPrueba
+            // 
+            lbPrueba.AutoSize = true;
+            lbPrueba.Location = new Point(101, 359);
+            lbPrueba.Name = "lbPrueba";
+            lbPrueba.Size = new Size(38, 15);
+            lbPrueba.TabIndex = 7;
+            lbPrueba.Text = "label1";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(227, 109);
+            label1.Name = "label1";
+            label1.Size = new Size(51, 15);
+            label1.TabIndex = 8;
+            label1.Text = "Espaniol";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(101, 109);
+            label2.Name = "label2";
+            label2.Size = new Size(38, 15);
+            label2.TabIndex = 9;
+            label2.Text = "Ingles";
             // 
             // Agregar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(768, 450);
-            this.Controls.Add(this.cbCategory);
-            this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.txtDefinition);
-            this.Controls.Add(this.txtWord);
-            this.Controls.Add(this.dgvData);
-            this.Name = "Agregar";
-            this.Text = "Agregar";
-            this.Load += new System.EventHandler(this.Agregar_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvData)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(768, 450);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(lbPrueba);
+            Controls.Add(btnVolver);
+            Controls.Add(cbCategory);
+            Controls.Add(btnAdd);
+            Controls.Add(txtEspaniol);
+            Controls.Add(txtIngles);
+            Controls.Add(dgvData);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            Name = "Agregar";
+            Text = "Agregar";
+            Load += Agregar_Load;
+            ((System.ComponentModel.ISupportInitialize)dgvData).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private DataGridView dgvData;
-        private TextBox txtWord;
-        private TextBox txtDefinition;
+        private TextBox txtIngles;
+        private TextBox txtEspaniol;
         private Button btnAdd;
-        private DataGridViewTextBoxColumn ingles;
-        private DataGridViewTextBoxColumn espaniol;
         private ComboBox cbCategory;
+        private Button btnVolver;
+        private Label lbPrueba;
+        private Label label1;
+        private Label label2;
     }
 }

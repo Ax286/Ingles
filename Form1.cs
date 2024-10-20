@@ -15,19 +15,24 @@ namespace Ingles
             ls.Show();
             this.Hide();
 
-         
+
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-          Application.Exit();
+            Application.Exit();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Agregar add= new Agregar();
+            Agregar add = new Agregar();
             this.Hide();
             add.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
