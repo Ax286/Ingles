@@ -21,7 +21,7 @@ namespace Ingles
 
         }
 
-        string sql = "server=LAPTOP-JSH17H4D; database=ingles; integrated security=true";
+        string sql = "server=LAPTOP-9LMT76US\\SQLEXPRESS; database=ingles; integrated security=true";
 
         private void Agregar_Load(object sender, EventArgs e)
         {

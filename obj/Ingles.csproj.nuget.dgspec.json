@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irvin\\Source\\Repos\\Ingles\\Ingles.csproj": {}
+    "C:\\Users\\alexm\\Downloads\\Ingles-main\\Ingles-main\\Ingles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irvin\\Source\\Repos\\Ingles\\Ingles.csproj": {
+    "C:\\Users\\alexm\\Downloads\\Ingles-main\\Ingles-main\\Ingles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irvin\\Source\\Repos\\Ingles\\Ingles.csproj",
+        "projectUniqueName": "C:\\Users\\alexm\\Downloads\\Ingles-main\\Ingles-main\\Ingles.csproj",
         "projectName": "Ingles",
-        "projectPath": "C:\\Users\\irvin\\Source\\Repos\\Ingles\\Ingles.csproj",
-        "packagesPath": "C:\\Users\\irvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irvin\\source\\repos\\Ingles\\obj\\",
+        "projectPath": "C:\\Users\\alexm\\Downloads\\Ingles-main\\Ingles-main\\Ingles.csproj",
+        "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexm\\Downloads\\Ingles-main\\Ingles-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\irvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
