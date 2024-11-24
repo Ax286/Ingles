@@ -1,0 +1,215 @@
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\alexm\OneDrive\Documentos\Proyectos\Ingles\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.sourcelink.json
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\source\repos\Ingles\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\irvin\source\repos\Ingles\obj\Debug\net6.0-windows\Ingles.csproj.Up2Date
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CopyComplete
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\alexm\Downloads\Ingles-main\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.Up2Date
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Estadisticas.resources
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.Estadisticas.resources
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CopyComplete
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Escritorio\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.Estadisticas.resources
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.Up2Date
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\obj\Debug\net6.0-windows\Ingles.Modo.resources
+C:\Users\irvin\Downloads\Ingles-main-20241030T002742Z-001\Ingles-main\bin\Debug\net6.0-windows\vida.wav
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\vida.wav
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Estadisticas.resources
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Modo.resources
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CopyComplete
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
+C:\Users\alexm\Downloads\Ingles-main\obj\Debug\net6.0-windows\Ingles.Resumen.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\Ingles.exe
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\vida.wav
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\Ingles.deps.json
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\Ingles.runtimeconfig.json
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Agregar.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Estadisticas.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Form1.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Lista.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Modo.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.Resumen.resources
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.GenerateResource.cache
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.csproj.CopyComplete
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\refint\Ingles.dll
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.pdb
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\Ingles.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Documentos\Visual Studio 2022\Proyectos\Ingles-main\obj\Debug\net6.0-windows\ref\Ingles.dll
