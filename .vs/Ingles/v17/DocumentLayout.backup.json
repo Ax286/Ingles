@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\",
+  "WorkspaceRootPath": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\downloads\\ingles-main-20241030t002742z-001\\ingles-main\\modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\onedrive\\documentos\\visual studio 2022\\proyectos\\ingles\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\downloads\\ingles-main-20241030t002742z-001\\ingles-main\\modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\downloads\\ingles-main-20241030t002742z-001\\ingles-main\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\onedrive\\documentos\\visual studio 2022\\proyectos\\ingles\\modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:modo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\downloads\\ingles-main-20241030t002742z-001\\ingles-main\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\onedrive\\documentos\\visual studio 2022\\proyectos\\ingles\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|c:\\users\\irvin\\onedrive\\documentos\\visual studio 2022\\proyectos\\ingles\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9DE5D8-DB8D-4B51-808E-2BC693A1D6F3}|Ingles.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,24 +41,29 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Modo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Modo.cs",
-              "RelativeDocumentMoniker": "Modo.cs",
-              "ToolTip": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Modo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Modo.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Configuracion.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Configuracion.cs",
+              "RelativeToolTip": "Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T22:42:47.756Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-26T03:54:19.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Agregar.cs",
-              "DocumentMoniker": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Agregar.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Agregar.cs",
               "RelativeDocumentMoniker": "Agregar.cs",
-              "ToolTip": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Agregar.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Agregar.cs",
               "RelativeToolTip": "Agregar.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAcwCAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,29 +71,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Modo.cs",
-              "DocumentMoniker": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Modo.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Modo.cs",
               "RelativeDocumentMoniker": "Modo.cs",
-              "ToolTip": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Modo.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Modo.cs",
               "RelativeToolTip": "Modo.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwCsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T00:09:38.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Lista.cs",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",
-              "ToolTip": "C:\\Users\\irvin\\Downloads\\Ingles-main-20241030T002742Z-001\\Ingles-main\\Lista.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAmwNUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:42:19.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:42:19.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Modo.cs",
+              "RelativeDocumentMoniker": "Modo.cs",
+              "ToolTip": "C:\\Users\\irvin\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\Ingles\\Modo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Modo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:42:47.756Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

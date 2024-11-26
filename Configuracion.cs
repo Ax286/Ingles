@@ -8,6 +8,6 @@ namespace Ingles
 {
     public static class Configuracion
     {
-        public static string sql = "server=LAPTOP-9LMT76US\\SQLEXPRESS; database=ingles; integrated security=true";
+        public static string sql = "server=CORTANA; database=ingles; integrated security=true";
     }
 }

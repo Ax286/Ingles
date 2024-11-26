@@ -22,6 +22,7 @@ namespace Ingles
 
         private void Estadisticas_Load(object sender, EventArgs e)
         {      
+            //Conexion a la bd y consulta de todas las palabras 
             SqlConnection cn = new SqlConnection(Configuracion.sql);
             cn.Open();
             string query = "select espaniol, ingles, Correcto,Incorrecto,Total,Porcentaje from Palabra";
@@ -32,6 +33,7 @@ namespace Ingles
             dgvDatos.DataSource=datos;
             cn.Close();           
 
+            //Formato del DataGriedView (nombre de las columnas)
             dgvDatos.Columns[0].HeaderText = "Español";
             dgvDatos.Columns[1].HeaderText = "Ingles";
             dgvDatos.Columns[2].HeaderText = "Correcto";
@@ -40,7 +42,7 @@ namespace Ingles
             dgvDatos.Columns[5].HeaderText = "Dominio";
 
             lbTotal.Text=dgvDatos.Rows.Count.ToString();
-            dgvDatos.CurrentCell = null;
+            dgvDatos.CurrentCell = null; //Desactiva la seleccion de la primera celda del DataGriedView
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
